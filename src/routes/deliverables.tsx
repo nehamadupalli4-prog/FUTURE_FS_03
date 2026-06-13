@@ -50,14 +50,14 @@ function DeliverablesPage() {
         </div>
 
         <div className="grid md:grid-cols-2 gap-5 mb-10">
-          <a href="#" className="group p-7 rounded-3xl bg-card border hover:border-primary hover:-translate-y-1 transition-all flex items-center gap-4">
+          <a href="https://spice-garden.nehamadupalli.workers.dev" className="group p-7 rounded-3xl bg-card border hover:border-primary hover:-translate-y-1 transition-all flex items-center gap-4">
             <div className="h-14 w-14 rounded-2xl bg-primary text-primary-foreground flex items-center justify-center"><ExternalLink className="h-6 w-6" /></div>
             <div>
               <div className="font-display text-xl font-bold">Live Website Demo</div>
               <div className="text-sm text-muted-foreground">Click to view live preview (placeholder)</div>
             </div>
           </a>
-          <a href="#" className="group p-7 rounded-3xl bg-card border hover:border-primary hover:-translate-y-1 transition-all flex items-center gap-4">
+          <a href="https://github.com/nehamadupalli4-prog/FUTURE_FS_03.git" className="group p-7 rounded-3xl bg-card border hover:border-primary hover:-translate-y-1 transition-all flex items-center gap-4">
             <div className="h-14 w-14 rounded-2xl bg-charcoal text-cream flex items-center justify-center"><Github className="h-6 w-6" /></div>
             <div>
               <div className="font-display text-xl font-bold">GitHub Repository</div>

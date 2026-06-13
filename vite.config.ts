@@ -13,3 +13,4 @@ export default defineConfig({
     server: { entry: "server" },
   },
 });
+// https://spice-garden.nehamadupalli.workers.dev - live link
